@@ -1,5 +1,3 @@
-#Hapler
-
 Hapler is a program for robustly determing haplotype regions from aligned (assembled) diverse sequence data.
 
 Execute:
